@@ -1,6 +1,5 @@
 # Student-Data-Management-System (C++)
 
-##  Project Description  
 The **Student Management System (SMS)** is a C++ console-based application designed to manage and organize student information efficiently.  
 It allows administrators to add, search, update, delete, and display student records using core **Data Structures and Algorithms (DSA)** concepts.  
 The system uses **linked lists** for dynamic data handling and provides a menu-driven interface for easy interaction.
